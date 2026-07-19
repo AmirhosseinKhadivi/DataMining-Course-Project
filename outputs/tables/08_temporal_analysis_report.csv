@@ -1,0 +1,2 @@
+﻿temporal_analysis_status,detected_temporal_columns,reason,dataset_column_interpretation
+not_applicable,None,"No date, time, year, month, day, or timestamp column exists in the dataset.","Collection center, not time"

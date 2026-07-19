@@ -1,0 +1,9 @@
+﻿check,passed
+Expected dataset shape,True
+Target column exists,True
+Identifier column exists,True
+Target has five classes,True
+Target has no missing values,True
+All columns have documented roles,True
+Previous EDA outputs exist,True
+Temporal availability documented,True
