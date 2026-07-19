@@ -1,0 +1,7 @@
+﻿component,method,fit_scope
+Suspicious zeros,Replace with missing,Rule based
+Numeric imputation,Median,Training data only
+Categorical imputation,Constant Missing category,Training data only
+Categorical encoding,One-Hot Encoding,Training data only
+Numeric scaling,StandardScaler,Training data only
+Train-test split,Stratified 80/20 split,Random state 42
