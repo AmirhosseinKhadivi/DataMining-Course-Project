@@ -1,0 +1,69 @@
+﻿id,dataset,target_class,feature,outlier_value,lower_bound,upper_bound,outlier_direction
+15,Cleveland,0,trestbps,172.0,90.0,170.0,upper
+84,Cleveland,3,trestbps,180.0,90.0,170.0,upper
+127,Cleveland,3,trestbps,200.0,90.0,170.0,upper
+173,Cleveland,1,trestbps,174.0,90.0,170.0,upper
+184,Cleveland,0,trestbps,178.0,90.0,170.0,upper
+189,Cleveland,1,trestbps,192.0,90.0,170.0,upper
+202,Cleveland,0,trestbps,180.0,90.0,170.0,upper
+214,Cleveland,3,trestbps,178.0,90.0,170.0,upper
+232,Cleveland,2,trestbps,180.0,90.0,170.0,upper
+339,Hungary,0,trestbps,190.0,90.0,170.0,upper
+376,Hungary,0,trestbps,180.0,90.0,170.0,upper
+388,Hungary,0,trestbps,180.0,90.0,170.0,upper
+476,Hungary,0,trestbps,180.0,90.0,170.0,upper
+485,Hungary,0,trestbps,180.0,90.0,170.0,upper
+549,Hungary,1,trestbps,200.0,90.0,170.0,upper
+570,Hungary,1,trestbps,180.0,90.0,170.0,upper
+596,Hungary,1,trestbps,180.0,90.0,170.0,upper
+645,Switzerland,0,trestbps,80.0,90.0,170.0,lower
+648,Switzerland,1,trestbps,180.0,90.0,170.0,upper
+681,Switzerland,3,trestbps,200.0,90.0,170.0,upper
+701,Switzerland,1,trestbps,185.0,90.0,170.0,upper
+702,Switzerland,3,trestbps,200.0,90.0,170.0,upper
+728,VA Long Beach,0,trestbps,180.0,90.0,170.0,upper
+780,VA Long Beach,1,trestbps,178.0,90.0,170.0,upper
+855,VA Long Beach,3,trestbps,172.0,90.0,170.0,upper
+890,VA Long Beach,1,trestbps,180.0,90.0,170.0,upper
+897,VA Long Beach,4,trestbps,190.0,90.0,170.0,upper
+49,Cleveland,0,chol,417.0,109.875,376.875,upper
+122,Cleveland,4,chol,407.0,109.875,376.875,upper
+153,Cleveland,0,chol,564.0,109.875,376.875,upper
+174,Cleveland,0,chol,394.0,109.875,376.875,upper
+182,Cleveland,2,chol,409.0,109.875,376.875,upper
+374,Hungary,0,chol,412.0,109.875,376.875,upper
+432,Hungary,0,chol,100.0,109.875,376.875,lower
+435,Hungary,0,chol,468.0,109.875,376.875,upper
+462,Hungary,0,chol,394.0,109.875,376.875,upper
+474,Hungary,0,chol,85.0,109.875,376.875,lower
+501,Hungary,1,chol,466.0,109.875,376.875,upper
+529,Hungary,1,chol,529.0,109.875,376.875,upper
+532,Hungary,1,chol,392.0,109.875,376.875,upper
+547,Hungary,1,chol,603.0,109.875,376.875,upper
+567,Hungary,1,chol,404.0,109.875,376.875,upper
+569,Hungary,1,chol,518.0,109.875,376.875,upper
+577,Hungary,1,chol,388.0,109.875,376.875,upper
+585,Hungary,1,chol,491.0,109.875,376.875,upper
+596,Hungary,1,chol,393.0,109.875,376.875,upper
+749,VA Long Beach,1,chol,100.0,109.875,376.875,lower
+801,VA Long Beach,0,chol,458.0,109.875,376.875,upper
+803,VA Long Beach,2,chol,384.0,109.875,376.875,upper
+919,VA Long Beach,0,chol,385.0,109.875,376.875,upper
+632,Switzerland,2,thalch,60.0,64.5,212.5,lower
+678,Switzerland,3,thalch,63.0,64.5,212.5,lower
+92,Cleveland,3,oldpeak,6.2,-2.25,3.75,upper
+122,Cleveland,4,oldpeak,4.0,-2.25,3.75,upper
+124,Cleveland,3,oldpeak,5.6,-2.25,3.75,upper
+127,Cleveland,3,oldpeak,4.0,-2.25,3.75,upper
+184,Cleveland,0,oldpeak,4.2,-2.25,3.75,upper
+192,Cleveland,3,oldpeak,4.2,-2.25,3.75,upper
+212,Cleveland,4,oldpeak,3.8,-2.25,3.75,upper
+286,Cleveland,4,oldpeak,4.4,-2.25,3.75,upper
+294,Cleveland,2,oldpeak,4.0,-2.25,3.75,upper
+568,Hungary,1,oldpeak,4.0,-2.25,3.75,upper
+590,Hungary,1,oldpeak,5.0,-2.25,3.75,upper
+616,Switzerland,1,oldpeak,-2.6,-2.25,3.75,lower
+805,VA Long Beach,4,oldpeak,4.0,-2.25,3.75,upper
+826,VA Long Beach,3,oldpeak,4.0,-2.25,3.75,upper
+842,VA Long Beach,3,oldpeak,4.0,-2.25,3.75,upper
+864,VA Long Beach,4,oldpeak,4.0,-2.25,3.75,upper
