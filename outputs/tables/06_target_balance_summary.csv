@@ -1,0 +1,2 @@
+﻿majority_class,majority_count,minority_class,minority_count,imbalance_ratio,imbalance_level
+0,411,4,28,14.678571428571429,severely imbalanced
