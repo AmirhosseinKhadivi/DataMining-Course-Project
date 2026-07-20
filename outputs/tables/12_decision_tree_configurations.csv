@@ -1,0 +1,13 @@
+﻿max_depth,dataset_mode,class_weight_name,criterion,min_samples_split,min_samples_leaf
+3.0,with_dataset,none,gini,2,2
+3.0,with_dataset,balanced,gini,2,2
+3.0,without_dataset,none,gini,2,2
+3.0,without_dataset,balanced,gini,2,2
+5.0,with_dataset,none,gini,2,2
+5.0,with_dataset,balanced,gini,2,2
+5.0,without_dataset,none,gini,2,2
+5.0,without_dataset,balanced,gini,2,2
+,with_dataset,none,gini,2,2
+,with_dataset,balanced,gini,2,2
+,without_dataset,none,gini,2,2
+,without_dataset,balanced,gini,2,2
