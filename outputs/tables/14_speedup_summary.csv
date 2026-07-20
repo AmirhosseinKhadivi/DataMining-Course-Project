@@ -1,0 +1,2 @@
+﻿raw_python_average_seconds,pandas_numpy_average_seconds,raw_python_to_pandas_speedup,faster_method,benchmark_rows,benchmark_repeats
+0.33832507133483886,0.0359492301940918,9.411190990967091,Pandas and NumPy,92000,5
