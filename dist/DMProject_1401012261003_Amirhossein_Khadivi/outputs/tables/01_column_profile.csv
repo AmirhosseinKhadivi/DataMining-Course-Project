@@ -1,0 +1,17 @@
+﻿column,role,pandas_dtype,conceptual_type,non_null_count,missing_count,missing_percent,unique_count,description
+id,identifier,int64,integer identifier,920,0,0.0,920,Unique record identifier
+age,feature,int64,numeric,920,0,0.0,50,Age in years
+sex,feature,object,binary categorical,920,0,0.0,2,Patient sex
+dataset,feature,object,nominal categorical,920,0,0.0,4,Dataset collection center
+cp,feature,object,nominal categorical,920,0,0.0,4,Chest pain type
+trestbps,feature,float64,numeric,861,59,6.41,61,Resting blood pressure
+chol,feature,float64,numeric,890,30,3.26,217,Serum cholesterol
+fbs,feature,object,binary categorical,830,90,9.78,2,Fasting blood sugar above 120 mg/dl
+restecg,feature,object,nominal categorical,918,2,0.22,3,Resting electrocardiographic result
+thalch,feature,float64,numeric,865,55,5.98,119,Maximum heart rate achieved
+exang,feature,object,binary categorical,865,55,5.98,2,Exercise-induced angina
+oldpeak,feature,float64,numeric,858,62,6.74,53,Exercise-induced ST depression
+slope,feature,object,categorical,611,309,33.59,3,Slope of the peak exercise ST segment
+ca,feature,float64,discrete numeric,309,611,66.41,4,Number of major vessels
+thal,feature,object,nominal categorical,434,486,52.83,3,Thalassemia test result
+num,target,int64,multiclass target,920,0,0.0,5,Target class from 0 to 4

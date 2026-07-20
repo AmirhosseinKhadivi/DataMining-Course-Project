@@ -1,0 +1,7 @@
+﻿model_group,configuration,required,imbalance_strategy
+SVM,Linear kernel,True,Compare default and balanced class weights
+SVM,RBF kernel,True,Compare default and balanced class weights
+KNN,k equals 3,True,Evaluate macro metrics
+KNN,k equals 5,True,Evaluate macro metrics
+KNN,k equals 7,True,Evaluate macro metrics
+Decision Tree,Tune depth and minimum leaf size,True,Compare default and balanced class weights

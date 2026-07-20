@@ -1,0 +1,9 @@
+﻿rule,planned_value,reason
+Train-test ratio,"80 percent train, 20 percent test",Required project split
+Stratification,Use target-based stratification,Preserve minority-class representation
+Random state,42,Reproducible results
+Imputer fitting,Fit on training data only,Prevent data leakage
+Scaler fitting,Fit on training data only,Prevent data leakage
+Encoder fitting,Fit on training data only,Prevent data leakage
+Outlier-bound fitting,Calculate from training data only,Prevent data leakage
+Model selection,Use training cross-validation only,Keep test data for final evaluation

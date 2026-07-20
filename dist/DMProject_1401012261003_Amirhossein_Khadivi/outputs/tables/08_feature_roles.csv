@@ -1,0 +1,17 @@
+﻿feature,role,model_usage,reason
+id,identifier,exclude,Record identifier with no predictive meaning
+age,continuous_numeric,include,Patient age
+sex,categorical,include,Binary categorical feature
+dataset,categorical_source,compare_with_and_without,Collection center may create source shortcut learning
+cp,categorical,include,Chest pain category
+trestbps,continuous_numeric,include,Zero must be treated as missing before imputation
+chol,continuous_numeric,include,Zero must be treated as missing before imputation
+fbs,categorical,include,Binary categorical feature
+restecg,categorical,include,Electrocardiographic category
+thalch,continuous_numeric,include,Maximum heart rate
+exang,categorical,include,Binary categorical feature
+oldpeak,continuous_numeric,include,Skewed feature and transformation candidate
+slope,categorical,include,Categorical feature with substantial missingness
+ca,discrete_categorical,include,Valid discrete values should not be IQR capped
+thal,categorical,include,Categorical feature with substantial missingness
+num,target,prediction_target,Multiclass target from zero to four

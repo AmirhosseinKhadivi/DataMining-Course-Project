@@ -1,0 +1,2 @@
+﻿comparison_task,raw_python_method,vectorized_method,outputs_equivalent,faster_method,speedup_ratio,main_reason
+Numeric preprocessing and descriptive statistics,"Loops, lists, and dictionaries",Pandas and NumPy operations,True,Pandas and NumPy,9.411190990967091,Vectorized compiled operations reduce Python interpreter overhead

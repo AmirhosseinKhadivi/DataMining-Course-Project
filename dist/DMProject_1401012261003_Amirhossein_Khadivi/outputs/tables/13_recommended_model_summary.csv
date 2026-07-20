@@ -1,0 +1,2 @@
+﻿selection_rank,model_name,algorithm,model_detail,accuracy,balanced_accuracy,macro_precision,macro_recall,macro_f1,weighted_f1,training_seconds,prediction_seconds,class_4_recall
+1,knn_k5_with_dataset,KNN,k=5 | dataset=with_dataset,0.592391304347826,0.3997388253715911,0.5664654708958506,0.3997388253715911,0.4172225827823226,0.5781712272937731,0.0614319999999963,0.1221524999999985,0.1666666666666666

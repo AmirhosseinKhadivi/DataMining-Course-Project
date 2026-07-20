@@ -1,0 +1,8 @@
+﻿finding,feature,value,measurement
+Highest missingness,ca,66.41304347826087,percent
+Highest absolute skewness,chol,1.3148668578248883,absolute_skewness
+Strongest numeric target correlation,ca,0.52804651106915,absolute_spearman
+Strongest numeric target effect,ca,0.2734327669021013,epsilon_squared
+Strongest categorical target association,exang,0.3214238410466504,cramers_v
+Class imbalance ratio,0 versus 4,14.678571428571429,majority_to_minority_ratio
+Total adjusted IQR outliers,continuous_features,68.0,count

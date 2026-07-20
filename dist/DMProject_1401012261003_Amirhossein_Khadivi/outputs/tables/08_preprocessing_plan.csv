@@ -1,0 +1,11 @@
+﻿step_order,component,features,planned_method,comparison_required,reason
+1,Identifier,id,Drop,False,Identifier must not enter the model
+2,Suspicious zeros,"trestbps, chol",Replace zero with missing,False,Zero is not physiologically plausible
+3,Numeric missing values,"age, trestbps, chol, thalch, oldpeak",Median imputation,True,Compare median with mean before final selection
+4,Categorical missing values,"sex, dataset, cp, fbs, restecg, exang, slope, thal",Constant Missing category,False,Preserves information from systematic missingness
+5,Discrete missing values,ca,Constant missing category,False,Preserves valid integer categories
+6,Outliers,"trestbps, chol, thalch, oldpeak",Compare no capping with training-only IQR capping,True,Avoid deleting medically valid observations
+7,Categorical encoding,"sex, dataset, cp, fbs, restecg, exang, slope, ca, thal",One-Hot Encoding,False,Avoid unsupported artificial numeric ordering
+8,Feature scaling,continuous numeric features,Compare StandardScaler and MinMaxScaler,True,SVM and KNN are sensitive to feature scales
+9,Distribution transformation,"chol, oldpeak",Compare original values with power transformation,True,Both features showed substantial right skewness
+10,Dataset source feature,dataset,Compare models with and without feature,True,Source information may inflate model performance
