@@ -1,0 +1,39 @@
+﻿feature_name,configuration
+age,with_dataset
+trestbps,with_dataset
+chol,with_dataset
+thalch,with_dataset
+oldpeak,with_dataset
+sex_Female,with_dataset
+sex_Male,with_dataset
+dataset_Cleveland,with_dataset
+dataset_Hungary,with_dataset
+dataset_Switzerland,with_dataset
+dataset_VA Long Beach,with_dataset
+cp_asymptomatic,with_dataset
+cp_atypical angina,with_dataset
+cp_non-anginal,with_dataset
+cp_typical angina,with_dataset
+fbs_False,with_dataset
+fbs_Missing,with_dataset
+fbs_True,with_dataset
+restecg_Missing,with_dataset
+restecg_lv hypertrophy,with_dataset
+restecg_normal,with_dataset
+restecg_st-t abnormality,with_dataset
+exang_False,with_dataset
+exang_Missing,with_dataset
+exang_True,with_dataset
+slope_Missing,with_dataset
+slope_downsloping,with_dataset
+slope_flat,with_dataset
+slope_upsloping,with_dataset
+ca_0,with_dataset
+ca_1,with_dataset
+ca_2,with_dataset
+ca_3,with_dataset
+ca_Missing,with_dataset
+thal_Missing,with_dataset
+thal_fixed defect,with_dataset
+thal_normal,with_dataset
+thal_reversable defect,with_dataset

@@ -1,0 +1,8 @@
+﻿metric,priority,reason
+Accuracy,secondary,Can be misleading under class imbalance
+Macro Precision,primary,Gives equal importance to all classes
+Macro Recall,primary,Measures minority-class detection
+Macro F1,primary,Balances precision and recall across classes
+Weighted F1,secondary,Reflects performance under observed class sizes
+Confusion Matrix,primary,Shows errors for each target class
+Per-class Recall,primary,Important for rare target class four

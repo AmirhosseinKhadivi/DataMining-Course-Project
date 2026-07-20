@@ -1,0 +1,2 @@
+﻿max_depth,dataset_mode,class_weight_name,criterion,min_samples_split,min_samples_leaf
+5,with_dataset,none,gini,2,2

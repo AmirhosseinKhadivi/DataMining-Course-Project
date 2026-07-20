@@ -1,0 +1,2 @@
+﻿experiment_name,algorithm,dataset_mode,numeric_imputation_strategy,scaler_name,cv_accuracy_mean,cv_balanced_accuracy_mean,cv_macro_precision_mean,cv_macro_recall_mean,cv_macro_f1_mean,cv_macro_f1_std,cv_weighted_f1_mean,elapsed_seconds
+svm_median_standard,svm,with_dataset,median,standard,0.5435741864313293,0.3937787614422361,0.4016196562743877,0.3937787614422361,0.3875508013353191,0.04709399786380496,0.5645409563211382,0.6614401999999586

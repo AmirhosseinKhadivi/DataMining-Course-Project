@@ -1,0 +1,35 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# PyCharm settings
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Test and tool caches
+.pytest_cache/
+.mypy_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.log
+
+# Saved models can become large
+outputs/models/*.joblib
+outputs/models/*.pkl

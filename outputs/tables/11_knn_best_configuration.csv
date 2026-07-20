@@ -1,0 +1,2 @@
+﻿n_neighbors,dataset_mode,weights,metric,p
+5,with_dataset,uniform,minkowski,2

@@ -1,0 +1,9 @@
+﻿kernel,dataset_mode,class_weight_name,C,gamma
+linear,with_dataset,none,1.0,scale
+linear,with_dataset,balanced,1.0,scale
+linear,without_dataset,none,1.0,scale
+linear,without_dataset,balanced,1.0,scale
+rbf,with_dataset,none,1.0,scale
+rbf,with_dataset,balanced,1.0,scale
+rbf,without_dataset,none,1.0,scale
+rbf,without_dataset,balanced,1.0,scale

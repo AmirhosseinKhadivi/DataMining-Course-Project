@@ -1,0 +1,5 @@
+﻿configuration,split,rows,columns
+with_dataset,train,736,38
+with_dataset,test,184,38
+without_dataset,train,736,34
+without_dataset,test,184,34

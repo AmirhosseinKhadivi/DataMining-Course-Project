@@ -1,0 +1,34 @@
+﻿feature,category,count,percent,is_missing_category
+ca,Missing,611,66.41304347826087,True
+ca,0,181,19.67391304347826,False
+ca,1,67,7.282608695652174,False
+ca,2,41,4.456521739130435,False
+ca,3,20,2.1739130434782608,False
+cp,asymptomatic,496,53.91304347826087,False
+cp,non-anginal,204,22.17391304347826,False
+cp,atypical angina,174,18.913043478260867,False
+cp,typical angina,46,5.0,False
+dataset,Cleveland,304,33.04347826086956,False
+dataset,Hungary,293,31.84782608695652,False
+dataset,VA Long Beach,200,21.73913043478261,False
+dataset,Switzerland,123,13.369565217391305,False
+exang,False,528,57.391304347826086,False
+exang,True,337,36.630434782608695,False
+exang,Missing,55,5.978260869565218,True
+fbs,False,692,75.21739130434783,False
+fbs,True,138,15.0,False
+fbs,Missing,90,9.782608695652174,True
+restecg,normal,551,59.89130434782609,False
+restecg,lv hypertrophy,188,20.434782608695652,False
+restecg,st-t abnormality,179,19.456521739130434,False
+restecg,Missing,2,0.21739130434782608,True
+sex,Male,726,78.91304347826087,False
+sex,Female,194,21.086956521739133,False
+slope,flat,345,37.5,False
+slope,Missing,309,33.58695652173913,True
+slope,upsloping,203,22.065217391304348,False
+slope,downsloping,63,6.8478260869565215,False
+thal,Missing,486,52.826086956521735,True
+thal,normal,196,21.304347826086957,False
+thal,reversable defect,192,20.869565217391305,False
+thal,fixed defect,46,5.0,False

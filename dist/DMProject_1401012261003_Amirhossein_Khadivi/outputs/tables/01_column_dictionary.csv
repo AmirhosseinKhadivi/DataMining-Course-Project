@@ -1,0 +1,17 @@
+﻿column,role,conceptual_type,description
+id,identifier,integer identifier,Unique record identifier
+age,feature,numeric,Age in years
+sex,feature,binary categorical,Patient sex
+dataset,feature,nominal categorical,Dataset collection center
+cp,feature,nominal categorical,Chest pain type
+trestbps,feature,numeric,Resting blood pressure
+chol,feature,numeric,Serum cholesterol
+fbs,feature,binary categorical,Fasting blood sugar above 120 mg/dl
+restecg,feature,nominal categorical,Resting electrocardiographic result
+thalch,feature,numeric,Maximum heart rate achieved
+exang,feature,binary categorical,Exercise-induced angina
+oldpeak,feature,numeric,Exercise-induced ST depression
+slope,feature,categorical,Slope of the peak exercise ST segment
+ca,feature,discrete numeric,Number of major vessels
+thal,feature,nominal categorical,Thalassemia test result
+num,target,multiclass target,Target class from 0 to 4

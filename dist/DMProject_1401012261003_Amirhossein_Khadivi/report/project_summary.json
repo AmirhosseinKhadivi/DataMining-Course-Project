@@ -1,0 +1,38 @@
+{
+  "student": {
+    "student_id": 1401012261003,
+    "first_name": "Amirhossein",
+    "last_name": "Khadivi"
+  },
+  "dataset": {
+    "rows": 920,
+    "original_columns": 16,
+    "target": "num",
+    "target_classes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "modeling": {
+    "train_rows": 736,
+    "test_rows": 184,
+    "test_size": 0.2,
+    "random_state": 42,
+    "cross_validation_folds": 5
+  },
+  "recommended_model": {
+    "algorithm": "KNN",
+    "accuracy": 0.592391304347826,
+    "balanced_accuracy": 0.3997388253715911,
+    "macro_f1": 0.4172225827823226,
+    "class_4_recall": 0.1666666666666666
+  },
+  "bonus_benchmark": {
+    "faster_method": "Pandas and NumPy",
+    "speedup_ratio": 9.411190990967093
+  },
+  "generated_at": "2026-07-20T17:35:37"
+}

@@ -1,0 +1,35 @@
+﻿feature_name,configuration
+age,without_dataset
+trestbps,without_dataset
+chol,without_dataset
+thalch,without_dataset
+oldpeak,without_dataset
+sex_Female,without_dataset
+sex_Male,without_dataset
+cp_asymptomatic,without_dataset
+cp_atypical angina,without_dataset
+cp_non-anginal,without_dataset
+cp_typical angina,without_dataset
+fbs_False,without_dataset
+fbs_Missing,without_dataset
+fbs_True,without_dataset
+restecg_Missing,without_dataset
+restecg_lv hypertrophy,without_dataset
+restecg_normal,without_dataset
+restecg_st-t abnormality,without_dataset
+exang_False,without_dataset
+exang_Missing,without_dataset
+exang_True,without_dataset
+slope_Missing,without_dataset
+slope_downsloping,without_dataset
+slope_flat,without_dataset
+slope_upsloping,without_dataset
+ca_0,without_dataset
+ca_1,without_dataset
+ca_2,without_dataset
+ca_3,without_dataset
+ca_Missing,without_dataset
+thal_Missing,without_dataset
+thal_fixed defect,without_dataset
+thal_normal,without_dataset
+thal_reversable defect,without_dataset

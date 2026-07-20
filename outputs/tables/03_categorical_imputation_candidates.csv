@@ -1,0 +1,6 @@
+﻿feature,missing_count,missing_percent,mode_value,unique_non_missing_values
+fbs,90,9.782608695652174,False,2
+restecg,2,0.21739130434782608,normal,3
+exang,55,5.978260869565218,False,2
+slope,309,33.58695652173913,flat,3
+thal,486,52.826086956521735,normal,3
