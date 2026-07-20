@@ -1,0 +1,2 @@
+﻿model_name,n_neighbors,dataset_mode,accuracy,balanced_accuracy,macro_precision,macro_recall,macro_f1,weighted_f1,training_seconds,prediction_seconds
+knn_k5_with_dataset,5,with_dataset,0.592391304347826,0.39973882537159117,0.5664654708958506,0.39973882537159117,0.4172225827823226,0.5781712272937731,0.04582449999998062,0.050472200000058365
