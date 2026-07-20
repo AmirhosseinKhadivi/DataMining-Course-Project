@@ -1,0 +1,2 @@
+﻿model_name,algorithm,model_detail,accuracy,balanced_accuracy,macro_precision,macro_recall,macro_f1,weighted_f1,training_seconds,prediction_seconds,class_4_recall
+optimized_svm_median_standard,Optimized SVM,imputation=median | scaler=standard | dataset=with_dataset,0.5054347826086957,0.44534816311162373,0.39096137110970874,0.44534816311162373,0.3818338103675435,0.5364397939370236,0.10061550000000352,0.02031750000003285,0.6666666666666666
